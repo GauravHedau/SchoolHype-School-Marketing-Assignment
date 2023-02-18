@@ -1,0 +1,48 @@
+.div-1 {
+  margin: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.line {
+  position: relative;
+  top: 20px;
+  border: none;
+  height: 6px;
+  background: black;
+  margin-bottom: 50px;
+}
+.rightDiv {
+  text-align: right;
+}
+
+.div-2 {
+  background-color: #f0eeed;
+  padding: 30px;
+  border-radius: 10px;
+
+margin-bottom: 50px;
+}
+.title{
+    padding-bottom: 10px;
+}
+.text-btn{
+    font-weight: bold;
+}
+
+.div-3{
+background-color: #faf9ef;
+padding: 30px;
+}
+
+.div-3left{
+
+}
+.div-3right{
+    text-align: right;
+}
+.fa-solid{
+  margin: 5px;
+  font-size: 40px;
+  color: gray;
+}

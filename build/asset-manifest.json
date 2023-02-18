@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9690515.css",
+    "main.js": "/static/js/main.2d4c2d15.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/marketing.jfif": "/static/media/marketing.eca3be51df445b765488.jfif",
+    "static/media/automation.png": "/static/media/automation.724f3be463085b835082.png",
+    "index.html": "/index.html",
+    "main.d9690515.css.map": "/static/css/main.d9690515.css.map",
+    "main.2d4c2d15.js.map": "/static/js/main.2d4c2d15.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9690515.css",
+    "static/js/main.2d4c2d15.js"
+  ]
+}

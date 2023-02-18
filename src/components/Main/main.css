@@ -1,0 +1,39 @@
+.main {
+  padding: 100px;
+  border-radius: 0px 0px 0px 80px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: black;
+}
+.mainText {
+  padding-left: 50px;
+}
+.mainHeading {
+  font-size: 50px;
+}
+.mainHeading,
+.lead {
+  margin-bottom: 30px;
+}
+.btn-info {
+  font-weight: bold;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.btn-dark {
+  border: 1px solid white;
+}
+.rectangle {
+  margin: auto;
+  display: block;
+  margin-top: 8%;
+  width: 352px;
+  height: 230px;
+  background: none;
+  border: solid 1px white;
+}
+.mainImg {
+  position: relative;
+  top: 30px;
+  right: 30px;
+}
